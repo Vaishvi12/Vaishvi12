@@ -49,7 +49,6 @@
 </div>
 
 ---
-
 ## <div align="left">Skill Matrix</div>
 
 <div align="center">
@@ -57,8 +56,9 @@
 <table align="center">
 <tr>
 
+<!-- PROGRAMMING LANGUAGES -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🧠 Programming Languages</b></span></summary>
 
 <br>
@@ -81,8 +81,9 @@
 </details>
 </td>
 
+<!-- BACKEND -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🧩 Backend, APIs & Frameworks</b></span></summary>
 
 <br>
@@ -94,12 +95,13 @@
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
 </p>
 
-<p align="center"><small><i>Production APIs, authentication, microservices, ORM, and backend scaling.</i></small></p>
+<p align="center"><small><i>Production APIs, auth systems, microservices, ORMs, and backend scaling.</i></small></p>
 </details>
 </td>
 
+<!-- FRONTEND -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>📲 Frontend & Mobile</b></span></summary>
 
 <br>
@@ -113,7 +115,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="40" />
 </p>
 
-<p align="center"><small><i>Flutter + GetX, scalable UIs, responsive design, and component systems.</i></small></p>
+<p align="center"><small><i>Flutter + GetX UIs, responsive layouts, and scalable web/mobile interfaces.</i></small></p>
 </details>
 </td>
 
@@ -121,8 +123,9 @@
 
 <tr>
 
+<!-- DATABASES -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🛢 Databases</b></span></summary>
 
 <br>
@@ -136,12 +139,13 @@
 <img src="https://skillicons.dev/icons?i=firebase" width="40" />
 </p>
 
-<p align="center"><small><i>SQL + NoSQL, schema design, realtime DBs, indexing & optimization.</i></small></p>
+<p align="center"><small><i>SQL/NoSQL schema design, indexing, optimization & realtime data systems.</i></small></p>
 </details>
 </td>
 
+<!-- CLOUD -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>☁ Cloud, DevOps & Hosting</b></span></summary>
 
 <br>
@@ -153,12 +157,13 @@
 <img src="https://skillicons.dev/icons?i=nginx" width="40" />
 </p>
 
-<p align="center"><small><i>Cloud deployments, CI/CD, containers, reverse proxies & secure hosting.</i></small></p>
+<p align="center"><small><i>Cloud deployments, CI/CD basics, containers, reverse proxies & hosting.</i></small></p>
 </details>
 </td>
 
+<!-- DEV TOOLS -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🛠 Developer Tools</b></span></summary>
 
 <br>
@@ -173,7 +178,7 @@
 <img src="https://skillicons.dev/icons?i=figma" width="40" />
 </p>
 
-<p align="center"><small><i>Version control, debugging, UX tools, and daily dev workflows.</i></small></p>
+<p align="center"><small><i>Everyday tools for debugging, versioning, design, and API testing.</i></small></p>
 </details>
 </td>
 
@@ -181,8 +186,9 @@
 
 <tr>
 
+<!-- ML & CV -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>📐 Data, ML & CV</b></span></summary>
 
 <br>
@@ -194,12 +200,13 @@
 <img src="https://skillicons.dev/icons?i=pandas" width="40" />
 </p>
 
-<p align="center"><small><i>ML pipelines, experimentation, computer vision & data processing.</i></small></p>
+<p align="center"><small><i>ML pipelines, CV models, deep learning frameworks & data processing.</i></small></p>
 </details>
 </td>
 
+<!-- TESTING -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🧪 Testing & Debugging</b></span></summary>
 
 <br>
@@ -210,12 +217,13 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="40" />
 </p>
 
-<p align="center"><small><i>API tests, debugging, Git workflows, clean code & quality practices.</i></small></p>
+<p align="center"><small><i>API tests, debugging workflows, Git strategies, and clean code practices.</i></small></p>
 </details>
 </td>
 
+<!-- ARCHITECTURE -->
 <td width="33%" valign="top">
-<details open>
+<details>
 <summary><span style="font-size:17px;"><b>🎯 Architecture & Core Skills</b></span></summary>
 
 <br>
@@ -226,7 +234,7 @@
 <img src="https://skillicons.dev/icons?i=ts" width="40" />
 </p>
 
-<p align="center"><small><i>System design, modular patterns, integration design & scalability.</i></small></p>
+<p align="center"><small><i>System design, modular architecture, integrations & scalable code patterns.</i></small></p>
 </details>
 </td>
 
