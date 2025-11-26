@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -267,7 +267,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 </td>
 </tr>
@@ -287,11 +286,10 @@
 </tr>
 
 <tr>
-<td align="center"><b>📲 Frontend & Mobile</b></td>
+<td align="center"><b>📲 Frontend </b></td>
 <td align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-000000?logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
@@ -352,10 +350,36 @@
 </td>
 </tr>
 
+<tr>
+<td align="center"><b>⚙️ Technical Areas </b></td>
+<td align="left">
+
+![OOP](https://img.shields.io/badge/OOP-6A5ACD?logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?logo=cplusplus&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design(Basic)-4B0082?logo=architect&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-F05032?logo=git&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-0A66C2?logo=postman&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-000000?logo=architect&logoColor=white)
+
+</td>
+</tr>
+
 </table>
 </div>
 
 ---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ## Connect with Me
 
