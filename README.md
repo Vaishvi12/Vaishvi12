@@ -21,7 +21,7 @@
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 </div>
 
 ---
-## <div align="left">Skill Matrix</div>
+### <div align="left">Skill Matrix</div>
 
 <div align="center">
 
@@ -245,7 +245,7 @@
 
 ---
 
-## <div align="left">Compact Summary</div>
+### <div align="left">Compact Summary</div>
 
 <div align="center">
 
@@ -387,7 +387,7 @@
   </picture>
 </p>
 
-## Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="mailto:vaishvi1202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
