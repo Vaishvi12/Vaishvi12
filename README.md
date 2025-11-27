@@ -245,7 +245,7 @@
 
 ---
 
-# <div align="center">Compact Summary</div>
+## <div align="left">Compact Summary</div>
 
 <div align="center">
 
