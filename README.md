@@ -262,11 +262,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 </td>
 </tr>
@@ -278,7 +275,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
 
@@ -290,7 +286,6 @@
 <td align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 </td>
@@ -304,9 +299,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?logo=database&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 </td>
 </tr>
@@ -317,8 +309,6 @@
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GCP-1a73e8?logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 </td>
 </tr>
@@ -330,7 +320,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![ThunderClient](https://img.shields.io/badge/ThunderClient-000000?logo=thunderbird&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -355,10 +344,7 @@
 <td align="left">
 
 ![OOP](https://img.shields.io/badge/OOP-6A5ACD?logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?logo=cplusplus&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design(Basic)-4B0082?logo=architect&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
-![Version Control](https://img.shields.io/badge/Version_Control-F05032?logo=git&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-0A66C2?logo=postman&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-000000?logo=architect&logoColor=white)
 
